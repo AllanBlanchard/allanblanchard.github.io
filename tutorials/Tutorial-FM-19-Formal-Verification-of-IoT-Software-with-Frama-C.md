@@ -49,12 +49,12 @@ integration on top of a shared kernel, and their compliance to a
 common specification language: ACSL.
 
 Recently Frama-C has been applied
-[MDK2016:CRISIS](https://doi.org/10.1007/978-3-319-54876-0_9)
-[PKDR2018:RED-IoT](https://dl.acm.org/citation.cfm?id=3234910)
-[BKL2018:NFM](https://doi.org/10.1007/978-3-319-77935-5_3)
-[LBK2018:TAP](https://doi.org/10.1007/978-3-319-92994-1_11)
-[BKL2019:SAC](https://doi.org/10.1145/3297280.3297495)
-[BLK2019:NFM](https://doi.org/10.1007/978-3-030-20652-9_6)
+\[[1](https://doi.org/10.1007/978-3-319-54876-0_9),
+[2](https://dl.acm.org/citation.cfm?id=3234910),
+[3](https://doi.org/10.1007/978-3-319-77935-5_3),
+[4](https://doi.org/10.1007/978-3-319-92994-1_11),
+[5](https://doi.org/10.1145/3297280.3297495),
+[6](https://doi.org/10.1007/978-3-030-20652-9_6)\]
 to the verification of software in
 the context of the Internet of Things, more specifically the
 verification of modules of [Contiki](https://github.com/contiki-ng/contiki-ng), an open source
@@ -74,7 +74,11 @@ dynamic analyses in their everyday work. The presented code fragments are part o
 [Contiki](https://github.com/contiki-ng/contiki-ng), a real-world lightweight operating
 system for the IoT.
 
-# Summary of the Tutorial Format
+## Material
+
+The Virtual Machine containing Frama-C and the examples will be available soon.
+
+## Summary of the Tutorial Format
 
 The proposed tutorial duration is 180 minutes: about 20 minutes for the
 introduction including an overview of Frama-C and Contiki, 50 minutes
@@ -112,24 +116,24 @@ In more detail, the tutorial will be structured as follows:
 - An overview of Frama-C: [KKP2015:FAC](https://doi.org/10.1007/s00165-014-0326-7)
 - [Introduction to deductive verification with Frama-C](https://allan-blanchard.fr/publis/frama-c-wp-tutorial-en.pdf)
 - Application of Frama-C to Contiki:
-     - [MDK2016:CRISIS](https://doi.org/10.1007/978-3-319-54876-0_9)
-     - [PKDR2018:RED-IoT](https://dl.acm.org/citation.cfm?id=3234910)
-     - [BKL2018:NFM](https://doi.org/10.1007/978-3-319-77935-5_3)
-     - [LBK2018:TAP](https://doi.org/10.1007/978-3-319-92994-1_11)
-     - [BKL2019:SAC](https://doi.org/10.1145/3297280.3297495)
-     - [BLK2019:NFM](https://doi.org/10.1007/978-3-030-20652-9_6)
+     - \[1\] [MDK2016:CRISIS](https://doi.org/10.1007/978-3-319-54876-0_9)
+     - \[2\] [PKDR2018:RED-IoT](https://dl.acm.org/citation.cfm?id=3234910)
+     - \[3\] [BKL2018:NFM](https://doi.org/10.1007/978-3-319-77935-5_3)
+     - \[4\] [LBK2018:TAP](https://doi.org/10.1007/978-3-319-92994-1_11)
+     - \[5\] [BKL2019:SAC](https://doi.org/10.1145/3297280.3297495)
+     - \[6\] [BLK2019:NFM](https://doi.org/10.1007/978-3-030-20652-9_6)
 - Previous Frama-C tutorial papers:
      - [KPS2013:TAP](https://doi.org/10.1007/978-3-642-38916-0_10)
      - [KS2013:RV](https://doi.org/10.1007/978-3-642-40787-1_29)
      - [KS2014:TAP](https://doi.org/10.1007/978-3-319-09099-3_13)
      - [KS2016:RV](https://doi.org/10.1007/978-3-319-46982-9_7)
 
-## History of this tutorial
+# History of this tutorial
 
 A similar tutorial was presented at
 
-- the Zooming Innovation in Consumer Electronics International Conference ([ZINC](http://www.gozinc.org/#information)), May 30-31, 2018, Novi Sad, Serbia,
-- the 16th International Conference on High Performance Computing & Simulation (HPCS 2018), July 16, 2018, Orléans, France.
-- the third IEEE Secure Development Conference (IEEE SecDev 2018), September 30, 2018, Boston, USA.
-- the 29th IEEE International Symposium on Software Reliability Engineering (IEEE ISSRE 2018), October 16, 2018,  Memphis, Tennessee, USA
-- the The 34th ACM/SIGAPP Symposium On Applied Computing (ACM SIGAPP/SAC 2019), April 8-12, 2019, Limassol, Cyprus
+- the Zooming Innovation in Consumer Electronics International Conference ([ZINC 2018](http://www.gozinc.org/#information)), May 30-31, 2018, Novi Sad, Serbia,
+- the 16th International Conference on High Performance Computing & Simulation ([HPCS 2018](http://hpcs2018.cisedu.info/)), July 16, 2018, Orléans, France.
+- the third IEEE Secure Development Conference ([IEEE SecDev 2018](https://secdev.ieee.org/2018/home)), September 30, 2018, Boston, USA.
+- the 29th IEEE International Symposium on Software Reliability Engineering ([IEEE ISSRE 2018](http://2018.issre.net/)), October 16, 2018,  Memphis, Tennessee, USA
+- the The 34th ACM/SIGAPP Symposium On Applied Computing ([ACM SIGAPP/SAC 2019](https://www.sigapp.org/sac/sac2019/)), April 8-12, 2019, Limassol, Cyprus
