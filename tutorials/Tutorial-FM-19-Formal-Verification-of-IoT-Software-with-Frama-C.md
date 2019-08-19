@@ -4,13 +4,15 @@ October 7-11, 2019
 
 Porto, Portugal
 
+The tutorial will take place on 10th of October in the morning.
+
 # Presenters
 
 - [Allan Blanchard](https://allan-blanchard.fr)
 - [Nikolai Kosmatov](https://nikolai-kosmatov.eu/)
 - [Frédéric Loulergue](https://frederic.loulergue.eu/)
 
-# Content
+# Contents
 
 ## The Topic
 
@@ -116,17 +118,27 @@ In more detail, the tutorial will be structured as follows:
 - An overview of Frama-C: [KKP2015:FAC](https://doi.org/10.1007/s00165-014-0326-7)
 - [Introduction to deductive verification with Frama-C](https://allan-blanchard.fr/publis/frama-c-wp-tutorial-en.pdf)
 - Application of Frama-C to Contiki:
-     - \[1\] [MDK2016:CRISIS](https://doi.org/10.1007/978-3-319-54876-0_9)
+     - \[1\] [MDK2016:CRiSIS](https://doi.org/10.1007/978-3-319-54876-0_9) 
+       \[[Authors PDF](https://nikolai-kosmatov.eu/publications/mangano_dk_crisis_2016.pdf)\]
      - \[2\] [PKDR2018:RED-IoT](https://dl.acm.org/citation.cfm?id=3234910)
+       \[[Authors PDF](https://nikolai-kosmatov.eu/publications/peyrard_kdr_rediot_2018.pdf)\]
      - \[3\] [BKL2018:NFM](https://doi.org/10.1007/978-3-319-77935-5_3)
+       \[[Authors PDF](https://allan-blanchard.fr/publis/bkl_nfm_2018.pdf)\]
      - \[4\] [LBK2018:TAP](https://doi.org/10.1007/978-3-319-92994-1_11)
+       \[[Authors PDF](https://hal.inria.fr/hal-01811922/document)\]
      - \[5\] [BKL2019:SAC](https://doi.org/10.1145/3297280.3297495)
+       \[[Authors PDF](https://allan-blanchard.fr/publis/bkl_sac_2019.pdf)\]
      - \[6\] [BLK2019:NFM](https://doi.org/10.1007/978-3-030-20652-9_6)
+       \[[Authors PDF](https://allan-blanchard.fr/publis/blk_nfm_2019.pdf)\]
 - Previous Frama-C tutorial papers:
      - [KPS2013:TAP](https://doi.org/10.1007/978-3-642-38916-0_10)
+       \[[Authors PDF](https://nikolai-kosmatov.eu/publications/kosmatov_ps_tap_2013.pdf)\]
      - [KS2013:RV](https://doi.org/10.1007/978-3-642-40787-1_29)
+       \[[Authors PDF](https://nikolai-kosmatov.eu/publications/kosmatov_s_rv_2013.pdf)\]
      - [KS2014:TAP](https://doi.org/10.1007/978-3-319-09099-3_13)
+       \[[Authors PDF](https://nikolai-kosmatov.eu/publications/kosmatov_s_tap_2014.pdf)\]
      - [KS2016:RV](https://doi.org/10.1007/978-3-319-46982-9_7)
+       \[[Authors PDF](https://nikolai-kosmatov.eu/publications/kosmatov_s_rv_2016.pdf)\]
 
 # History of this tutorial
 
