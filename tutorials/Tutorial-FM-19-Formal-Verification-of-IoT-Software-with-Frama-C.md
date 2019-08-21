@@ -6,6 +6,8 @@ Porto, Portugal
 
 The tutorial will take place on 10th of October in the morning.
 
+[Registration](https://bit.ly/2JfdBjO)
+
 # Presenters
 
 - [Allan Blanchard](https://allan-blanchard.fr)
