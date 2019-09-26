@@ -8,6 +8,8 @@ The tutorial will take place on 10th of October in the morning.
 
 [Registration](https://bit.ly/2JfdBjO)
 
+The Virtual Machine is now available [here](https://drive.google.com/uc?id=1AdTOQu849PKlXGLbiMR0qsT9L8qHgp0S&export=download).
+
 # Presenters
 
 - [Allan Blanchard](https://allan-blanchard.fr)
@@ -80,7 +82,8 @@ system for the IoT.
 
 ## Material
 
-The Virtual Machine containing Frama-C and the examples will be available soon.
+A (VirtualBox) Virtual Machine containing Frama-C and the examples is available
+through [this link](https://drive.google.com/uc?id=1AdTOQu849PKlXGLbiMR0qsT9L8qHgp0S&export=download).
 
 ## Summary of the Tutorial Format
 
