@@ -10,7 +10,7 @@ The tutorial will take place on 10th of October in the morning.
 
 The Virtual Machine is available [here](https://drive.google.com/uc?id=1AdTOQu849PKlXGLbiMR0qsT9L8qHgp0S&export=download).
 
-The slides are available [here](https://allan-blanchard.fr/slides/fm-19-tuto.pdf)
+The slides are available [here](https://allan-blanchard.fr/slides/fm-19-tuto.pdf).
 
 # Presenters
 
